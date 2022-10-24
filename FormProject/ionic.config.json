@@ -1,0 +1,7 @@
+{
+  "name": "FormProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
